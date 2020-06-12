@@ -2,7 +2,7 @@ let tempC = prompt(
     "Masukan suhu celcius yang ingin anda konversikan ke farenheit"
 );
 let tempF = prompt(
-    "Masukan suhu celcius yang ingin anda konversikan ke farenheit"
+    "Masukan suhu farenheit yang ingin anda konversikan ke celcius"
 );
 
 //celcius ke fahrenheit
